@@ -1,0 +1,163 @@
+{
+  "homepage": [
+    {
+      "name": "Mridu",
+      "post": "World is Round or Sphere, It depends if you're seeing it in 2d or 3d plane. Both are correct in there own view, but none of them are wrong.",
+      "postedon": "January 16 2023",
+      "profilepic": "https://picsum.photos/id/338/200/200",
+      "id": 1
+    },
+    {
+      "name": "Mridu",
+      "post": "Defining a thing sets its boundary",
+      "postedon": "January 16 2023",
+      "profilepic": "https://picsum.photos/id/338/200/200",
+      "id": 2
+    },
+    {
+      "name": "Mridu",
+      "post": "Sometime,sum time,sum+=time",
+      "postedon": "January 16 2023",
+      "profilepic": "https://picsum.photos/id/338/200/200",
+      "id": 3
+    },
+    {
+      "name": "Mridu",
+      "post": "sachin Tendulkar\"Master Blaster\"",
+      "postedon": "January 17 2023",
+      "profilepic": "https://picsum.photos/id/338/200/200",
+      "id": 8
+    },
+    {
+      "name": "Appu Kanan",
+      "post": "Not only my hairs are curly, my thoughts are too",
+      "postedon": "January 17 2023",
+      "profilepic": "https://picsum.photos/id/454/200/200",
+      "id": 11
+    },
+    {
+      "name": "Chandan Gowda",
+      "post": "I am only introvert, when I am not drunk",
+      "postedon": "January 17 2023",
+      "profilepic": "https://picsum.photos/id/433//200/200",
+      "id": 12
+    },
+    {
+      "name": "Manish Kumar",
+      "post": "Don't judge a book by its cover",
+      "postedon": "January 17 2023",
+      "profilepic": "https://picsum.photos/id/64/200/200",
+      "id": 13
+    },
+    {
+      "name": "Safan",
+      "post": "",
+      "postedon": "January 21 2023",
+      "profilepic": "https://picsum.photos/200/200",
+      "id": 14
+    },
+    {
+      "name": "Safan",
+      "post": "safan",
+      "postedon": "January 21 2023",
+      "profilepic": "https://picsum.photos/200/200",
+      "id": 15
+    },
+    {
+      "name": "Safan",
+      "post": "I am Safan",
+      "postedon": "January 21 2023",
+      "profilepic": "https://picsum.photos/200/200",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "name": "Mridupaban Bhattacharjya",
+      "phonenumber": "8486712780",
+      "emailid": "nicknameriku@gmail.com",
+      "address": "Nagsankar Mandir Path, Nagsankar, Biswanath, Assam",
+      "password": "Password",
+      "photo": "https://picsum.photos/id/338/200/200",
+      "id": 1
+    },
+    {
+      "name": "Manish Kumar",
+      "phonenumber": "1234567890",
+      "emailid": "manish@gmail.com",
+      "address": "Balia",
+      "password": "Password",
+      "photo": "https://picsum.photos/id/64/200/200",
+      "id": 2
+    },
+    {
+      "name": "Appu Kanan",
+      "phonenumber": "123456",
+      "emailid": "appu@gmail.com",
+      "address": "Kerala",
+      "password": "Password",
+      "photo": "https://picsum.photos/id/454/200/200",
+      "id": 3
+    },
+    {
+      "name": "Chandan Gowda",
+      "phonenumber": "1234",
+      "emailid": "Gowda@gmail.com",
+      "address": "Hasan",
+      "password": "Password",
+      "photo": "https://picsum.photos/id/433//200/200",
+      "id": 4
+    },
+    {
+      "name": "Sachin",
+      "phonenumber": "1234",
+      "emailid": "sachin@gmail.com",
+      "address": "Orrisa",
+      "password": "Password",
+      "id": 5
+    },
+    {
+      "name": "Too Lazy",
+      "phonenumber": "1",
+      "emailid": "tooLazy@gmail.com",
+      "address": "lets keep it short",
+      "password": "1",
+      "photo": "https://picsum.photos/200/200",
+      "id": 6
+    },
+    {
+      "name": "Safan",
+      "phonenumber": "99999",
+      "emailid": "safan@gmail.com",
+      "address": "Kerala",
+      "password": "Password",
+      "photo": "https://picsum.photos/200/200",
+      "id": 7
+    }
+  ],
+  "simply": [
+    {
+      "name": "Mridu",
+      "post": "World is Round or Sphere,\nIt depends if you're seeing it in 2d or 3d plane.\nBoth are correct in there own view, but none of them are wrong.",
+      "postedon": "January 16 2023",
+      "profilepic": "./images/mypic.jpg",
+      "id": 3
+    },
+    {
+      "name": "yyyy",
+      "phonenumber": "999",
+      "emailid": "777@77",
+      "address": "jjjjjjjjjjj",
+      "password": "00000",
+      "id": 4
+    },
+    {
+      "name": "yyyy",
+      "phonenumber": "999",
+      "emailid": "777@77",
+      "address": "jjjjjjjjjjj",
+      "password": "00000",
+      "id": 5
+    }
+  ]
+}
