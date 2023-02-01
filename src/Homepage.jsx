@@ -17,7 +17,7 @@ class Homepage extends Component {
   //   post: "",
   // };
   render() {
-    console.log(this.state.userid)
+    console.log(this.state.userid);
     return (
       <React.Fragment>
         <div className="container-1">
